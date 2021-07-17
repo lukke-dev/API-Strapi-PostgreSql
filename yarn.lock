@@ -9106,7 +9106,7 @@
     "postgres-date" "~1.0.4"
     "postgres-interval" "^1.1.0"
 
-"pg@^8.3.0", "pg@>=8.0", "pg@8.5.1":
+"pg@^8.3.0", "pg@^8.5.1", "pg@>=8.0":
   "integrity" "sha512-9wm3yX9lCfjvA98ybCyw2pADUivyNWT/yIP4ZcDVpMN0og70BUWYEGXPCTAQdGTAqnytfRADb7NERrY1qxhIqw=="
   "resolved" "https://registry.npmjs.org/pg/-/pg-8.5.1.tgz"
   "version" "8.5.1"
