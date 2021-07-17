@@ -11,8 +11,10 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "heroku": "^7.56.1",
     "knex": "0.21.18",
     "pg": "8.5.1",
+    "pg-connection-string": "^2.4.0",
     "strapi": "3.6.5",
     "strapi-admin": "3.6.5",
     "strapi-connector-bookshelf": "3.6.5",
@@ -22,7 +24,6 @@
     "strapi-plugin-i18n": "3.6.5",
     "strapi-plugin-upload": "3.6.5",
     "strapi-plugin-users-permissions": "3.6.5",
-    "strapi-provider-upload-cloudinary": "^3.6.5",
     "strapi-utils": "3.6.5"
   },
   "author": {
